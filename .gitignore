@@ -1,0 +1,13 @@
+.env
+*.json.key
+credentials/
+__pycache__/
+*.pyc
+*.bak-*
+.DS_Store
+assets/NotoSansJP.ttf
+assets/soco/*.png
+assets/soco_color/*.png
+assets/fukusei_cache/*
+!assets/fukusei_cache/.gitkeep
+assets/drive_ids.json

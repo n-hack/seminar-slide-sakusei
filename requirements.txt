@@ -1,0 +1,5 @@
+Pillow
+numpy
+lxml
+google-auth
+google-api-python-client
